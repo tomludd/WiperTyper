@@ -1,0 +1,8 @@
+torch
+transformers
+pynput
+pyaudio
+numpy
+optimum[onnxruntime]
+librosa
+# webrtcvad  # Optional: requires Visual C++ Build Tools on Windows
